@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 def validate_user():
-    """Checks if the recieved"""
+    """Checks if the received"""
